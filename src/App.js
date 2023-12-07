@@ -8,9 +8,9 @@ import { Register } from './Components/Register';
 function App() {
   return (
     <div className="App">
-      {/* <Navbar/>
-      <Capsules/> */}
-      <Register/>
+      {/* <Navbar/> */}
+      <Capsules/>
+      {/* <Register/> */}
     </div>
   );
 }
